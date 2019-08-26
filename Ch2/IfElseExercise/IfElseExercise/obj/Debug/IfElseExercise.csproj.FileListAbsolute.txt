@@ -1,0 +1,15 @@
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseExercise\IfElseExercise\bin\Debug\IfElseExercise.exe.config
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseExercise\IfElseExercise\bin\Debug\IfElseExercise.exe
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseExercise\IfElseExercise\bin\Debug\IfElseExercise.pdb
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseExercise\IfElseExercise\obj\Debug\IfElseExercise.csprojAssemblyReference.cache
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseExercise\IfElseExercise\obj\Debug\MainWindow.g.cs
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseExercise\IfElseExercise\obj\Debug\App.g.cs
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseExercise\IfElseExercise\obj\Debug\IfElseExercise_MarkupCompile.cache
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseExercise\IfElseExercise\obj\Debug\IfElseExercise_MarkupCompile.lref
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseExercise\IfElseExercise\obj\Debug\MainWindow.baml
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseExercise\IfElseExercise\obj\Debug\IfElseExercise.g.resources
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseExercise\IfElseExercise\obj\Debug\IfElseExercise.Properties.Resources.resources
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseExercise\IfElseExercise\obj\Debug\IfElseExercise.csproj.GenerateResource.cache
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseExercise\IfElseExercise\obj\Debug\IfElseExercise.csproj.CoreCompileInputs.cache
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseExercise\IfElseExercise\obj\Debug\IfElseExercise.exe
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseExercise\IfElseExercise\obj\Debug\IfElseExercise.pdb

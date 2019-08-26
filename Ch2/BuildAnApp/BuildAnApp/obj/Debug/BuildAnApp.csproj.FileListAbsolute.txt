@@ -1,0 +1,15 @@
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\BuildAnApp\BuildAnApp\bin\Debug\BuildAnApp.exe.config
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\BuildAnApp\BuildAnApp\bin\Debug\BuildAnApp.exe
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\BuildAnApp\BuildAnApp\bin\Debug\BuildAnApp.pdb
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\BuildAnApp\BuildAnApp\obj\Debug\BuildAnApp.csprojAssemblyReference.cache
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\BuildAnApp\BuildAnApp\obj\Debug\MainWindow.g.cs
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\BuildAnApp\BuildAnApp\obj\Debug\App.g.cs
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\BuildAnApp\BuildAnApp\obj\Debug\BuildAnApp_MarkupCompile.cache
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\BuildAnApp\BuildAnApp\obj\Debug\BuildAnApp_MarkupCompile.lref
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\BuildAnApp\BuildAnApp\obj\Debug\MainWindow.baml
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\BuildAnApp\BuildAnApp\obj\Debug\BuildAnApp.g.resources
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\BuildAnApp\BuildAnApp\obj\Debug\BuildAnApp.Properties.Resources.resources
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\BuildAnApp\BuildAnApp\obj\Debug\BuildAnApp.csproj.GenerateResource.cache
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\BuildAnApp\BuildAnApp\obj\Debug\BuildAnApp.csproj.CoreCompileInputs.cache
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\BuildAnApp\BuildAnApp\obj\Debug\BuildAnApp.exe
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\BuildAnApp\BuildAnApp\obj\Debug\BuildAnApp.pdb

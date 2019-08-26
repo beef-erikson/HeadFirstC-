@@ -1,0 +1,10 @@
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\FlashyThing\FlashyThing\bin\Debug\FlashyThing.exe.config
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\FlashyThing\FlashyThing\bin\Debug\FlashyThing.exe
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\FlashyThing\FlashyThing\bin\Debug\FlashyThing.pdb
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\FlashyThing\FlashyThing\obj\Debug\FlashyThing.csprojAssemblyReference.cache
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\FlashyThing\FlashyThing\obj\Debug\FlashyThing.Form1.resources
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\FlashyThing\FlashyThing\obj\Debug\FlashyThing.Properties.Resources.resources
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\FlashyThing\FlashyThing\obj\Debug\FlashyThing.csproj.GenerateResource.cache
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\FlashyThing\FlashyThing\obj\Debug\FlashyThing.csproj.CoreCompileInputs.cache
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\FlashyThing\FlashyThing\obj\Debug\FlashyThing.exe
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\FlashyThing\FlashyThing\obj\Debug\FlashyThing.pdb

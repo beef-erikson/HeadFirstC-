@@ -1,0 +1,10 @@
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseWinForms\IfElseWinForms\bin\Debug\IfElseWinForms.exe.config
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseWinForms\IfElseWinForms\bin\Debug\IfElseWinForms.exe
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseWinForms\IfElseWinForms\bin\Debug\IfElseWinForms.pdb
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseWinForms\IfElseWinForms\obj\Debug\IfElseWinForms.csprojAssemblyReference.cache
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseWinForms\IfElseWinForms\obj\Debug\IfElseWinForms.Form1.resources
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseWinForms\IfElseWinForms\obj\Debug\IfElseWinForms.Properties.Resources.resources
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseWinForms\IfElseWinForms\obj\Debug\IfElseWinForms.csproj.GenerateResource.cache
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseWinForms\IfElseWinForms\obj\Debug\IfElseWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseWinForms\IfElseWinForms\obj\Debug\IfElseWinForms.exe
+C:\Users\Beef Erikson Studios\source\repos\Head First C#\IfElseWinForms\IfElseWinForms\obj\Debug\IfElseWinForms.pdb
